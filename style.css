@@ -298,7 +298,7 @@ body {
   right: 1rem;
 }
 .level-text:before {
-  content: "by PEDRO ONDIVIELA";
+  content: "by MadNess";
   position: absolute;
   right: 0;
   bottom: calc(4rem - 100vh);
